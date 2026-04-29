@@ -94,4 +94,8 @@ npm run dev
 
 ---
 
+This project was developed as part of hands-on learning and significantly enhanced with custom backend features, real-time communication, and scalable architecture.
+
+---
+
 ⭐ If you found this project useful, consider giving it a star!
